@@ -1,0 +1,128 @@
+Executing second task:
+
+sort on randomized array of size 8:
+bubblesort:    0.000002s
+quicksort:     0.000000s
+mergesort:     0.000001s
+insertionsort: 0.000000s
+
+sort on ascending array of size 8:
+bubblesort:    0.000001s
+quicksort:     0.000000s
+mergesort:     0.000001s
+insertionsort: 0.000000s
+
+sort on descending array of size 8:
+bubblesort:    0.000000s
+quicksort:     0.000001s
+mergesort:     0.000000s
+insertionsort: 0.000001s
+
+sort on randomized array of size 32:
+bubblesort:    0.000004s
+quicksort:     0.000002s
+mergesort:     0.000002s
+insertionsort: 0.000000s
+
+sort on ascending array of size 32:
+bubblesort:    0.000002s
+quicksort:     0.000001s
+mergesort:     0.000003s
+insertionsort: 0.000001s
+
+sort on descending array of size 32:
+bubblesort:    0.000003s
+quicksort:     0.000001s
+mergesort:     0.000002s
+insertionsort: 0.000001s
+
+sort on randomized array of size 128:
+bubblesort:    0.000043s
+quicksort:     0.000004s
+mergesort:     0.000007s
+insertionsort: 0.000000s
+
+sort on ascending array of size 128:
+bubblesort:    0.000023s
+quicksort:     0.000003s
+mergesort:     0.000006s
+insertionsort: 0.000001s
+
+sort on descending array of size 128:
+bubblesort:    0.000037s
+quicksort:     0.000003s
+mergesort:     0.000008s
+insertionsort: 0.000001s
+
+sort on randomized array of size 512:
+bubblesort:    0.000570s
+quicksort:     0.000013s
+mergesort:     0.000033s
+insertionsort: 0.000002s
+
+sort on ascending array of size 512:
+bubblesort:    0.000343s
+quicksort:     0.000013s
+mergesort:     0.000032s
+insertionsort: 0.000003s
+
+sort on descending array of size 512:
+bubblesort:    0.000550s
+quicksort:     0.000013s
+mergesort:     0.000033s
+insertionsort: 0.000002s
+
+sort on randomized array of size 2048:
+bubblesort:    0.008758s
+quicksort:     0.000053s
+mergesort:     0.000132s
+insertionsort: 0.000007s
+
+sort on ascending array of size 2048:
+bubblesort:    0.004778s
+quicksort:     0.000047s
+mergesort:     0.000121s
+insertionsort: 0.000007s
+
+sort on descending array of size 2048:
+bubblesort:    0.007169s
+quicksort:     0.000046s
+mergesort:     0.000118s
+insertionsort: 0.000006s
+
+sort on randomized array of size 8192:
+bubblesort:    0.125135s
+quicksort:     0.000282s
+mergesort:     0.000420s
+insertionsort: 0.000018s
+
+sort on ascending array of size 8192:
+bubblesort:    0.052767s
+quicksort:     0.000174s
+mergesort:     0.000415s
+insertionsort: 0.000018s
+
+sort on descending array of size 8192:
+bubblesort:    0.085432s
+quicksort:     0.000206s
+mergesort:     0.000434s
+insertionsort: 0.000018s
+
+sort on randomized array of size 32768:
+bubblesort:    2.330597s
+quicksort:     0.001226s
+mergesort:     0.001908s
+insertionsort: 0.000072s
+
+sort on ascending array of size 32768:
+bubblesort:    0.840118s
+quicksort:     0.000878s
+mergesort:     0.001887s
+insertionsort: 0.000071s
+
+sort on descending array of size 32768:
+bubblesort:    1.365055s
+quicksort:     0.000961s
+mergesort:     0.001978s
+insertionsort: 0.000072s
+

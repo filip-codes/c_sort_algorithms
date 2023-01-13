@@ -1,0 +1,126 @@
+Executing third task:
+
+sort on randomized array of size 2000:
+bubblesort:    0.005277s
+sort on ascending array of size 2000:
+bubblesort:    0.003139s
+sort on descending array of size 2000:
+bubblesort:    0.005092s
+sort on randomized array of size 2000:
+bubblesort:    0.005201s
+sort on ascending array of size 2000:
+bubblesort:    0.003141s
+sort on descending array of size 2000:
+bubblesort:    0.005035s
+sort on randomized array of size 2000:
+bubblesort:    0.005290s
+sort on ascending array of size 2000:
+bubblesort:    0.003222s
+sort on descending array of size 2000:
+bubblesort:    0.005154s
+sort on randomized array of size 2000:
+bubblesort:    0.005300s
+sort on ascending array of size 2000:
+bubblesort:    0.003138s
+sort on descending array of size 2000:
+bubblesort:    0.005091s
+sort on randomized array of size 2000:
+bubblesort:    0.005276s
+sort on ascending array of size 2000:
+bubblesort:    0.003147s
+sort on descending array of size 2000:
+bubblesort:    0.005114s
+sort on randomized array of size 2000:
+bubblesort:    0.005271s
+sort on ascending array of size 2000:
+bubblesort:    0.003138s
+sort on descending array of size 2000:
+bubblesort:    0.005104s
+sort on randomized array of size 2000:
+bubblesort:    0.005291s
+sort on ascending array of size 2000:
+bubblesort:    0.003138s
+sort on descending array of size 2000:
+bubblesort:    0.005100s
+sort on randomized array of size 2000:
+bubblesort:    0.005314s
+sort on ascending array of size 2000:
+bubblesort:    0.003137s
+sort on descending array of size 2000:
+bubblesort:    0.005086s
+sort on randomized array of size 2000:
+bubblesort:    0.005287s
+sort on ascending array of size 2000:
+bubblesort:    0.003137s
+sort on descending array of size 2000:
+bubblesort:    0.005087s
+sort on randomized array of size 2000:
+bubblesort:    0.005315s
+sort on ascending array of size 2000:
+bubblesort:    0.003139s
+sort on descending array of size 2000:
+bubblesort:    0.005086s
+sort on randomized array of size 2000:
+bubblesort:    0.005282s
+sort on ascending array of size 2000:
+bubblesort:    0.003138s
+sort on descending array of size 2000:
+bubblesort:    0.005099s
+sort on randomized array of size 2000:
+bubblesort:    0.005302s
+sort on ascending array of size 2000:
+bubblesort:    0.003138s
+sort on descending array of size 2000:
+bubblesort:    0.005102s
+sort on randomized array of size 2000:
+bubblesort:    0.005248s
+sort on ascending array of size 2000:
+bubblesort:    0.003140s
+sort on descending array of size 2000:
+bubblesort:    0.005085s
+sort on randomized array of size 2000:
+bubblesort:    0.005268s
+sort on ascending array of size 2000:
+bubblesort:    0.003138s
+sort on descending array of size 2000:
+bubblesort:    0.005098s
+sort on randomized array of size 2000:
+bubblesort:    0.005292s
+sort on ascending array of size 2000:
+bubblesort:    0.003138s
+sort on descending array of size 2000:
+bubblesort:    0.005091s
+sort on randomized array of size 2000:
+bubblesort:    0.005259s
+sort on ascending array of size 2000:
+bubblesort:    0.003156s
+sort on descending array of size 2000:
+bubblesort:    0.005097s
+sort on randomized array of size 2000:
+bubblesort:    0.005316s
+sort on ascending array of size 2000:
+bubblesort:    0.003137s
+sort on descending array of size 2000:
+bubblesort:    0.005088s
+sort on randomized array of size 2000:
+bubblesort:    0.005315s
+sort on ascending array of size 2000:
+bubblesort:    0.003153s
+sort on descending array of size 2000:
+bubblesort:    0.005108s
+sort on randomized array of size 2000:
+bubblesort:    0.005286s
+sort on ascending array of size 2000:
+bubblesort:    0.003143s
+sort on descending array of size 2000:
+bubblesort:    0.005086s
+sort on randomized array of size 2000:
+bubblesort:    0.005313s
+sort on ascending array of size 2000:
+bubblesort:    0.003138s
+sort on descending array of size 2000:
+bubblesort:    0.005089s
+
+Minimal runtime: 0.003137s
+Maximal runtime: 0.005316s
+Average runtime: 0.004563s
